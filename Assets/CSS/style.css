@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+*{
+    margin:0;
+}
+body{
+    background-color: black;
+
+}
+.parent-box{
+     height: 100vh; 
+    display:flex; 
+     justify-content: center; 
+    align-items: center; 
+    
+
+}
+.child-box{
+font-family: Acme;
+font-weight: 400;
+font-size: 70px;
+line-height: 90px;
+letter-spacing: 0%;
+text-align: center;
+color:white;
+
+
+}
